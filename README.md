@@ -1,2 +1,2 @@
 # DataMiningNotes
-The notes for DM
+Notes for DM
